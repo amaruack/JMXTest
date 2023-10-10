@@ -32,5 +32,12 @@ https://docs.oracle.com/en/java/javase/17/jmx
 
 ### 공부 ! 순서 !
 1. MBean
+   1. MBean
+   2. MXBean
+   3. MBeanInfo(DynamicMBean) 
 2. Connector
+   1. MbeanServer
+   2. JMX Connector Server
+   3. JMX Connector Client
+   4. Client Listener
 
