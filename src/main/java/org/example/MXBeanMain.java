@@ -14,6 +14,7 @@ import java.util.concurrent.ArrayBlockingQueue;
 public class MXBeanMain {
 
     public static void main(String[] args) throws Exception {
+
         MBeanServer mbs = ManagementFactory.getPlatformMBeanServer();
 
         ObjectName name = new ObjectName("com.example.mxbeans:type=QueueSampler");
